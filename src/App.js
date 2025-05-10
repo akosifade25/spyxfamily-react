@@ -17,22 +17,24 @@ function App() {
     return () => clearTimeout(delay);
   }, []);
 
-  if (isLoading) {
-    return <Loading />;
-  }
-
   return (
-    <Router>
-      <Navbar />
-      <div className="container">
-        <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/about" element={<About />} />
-          <Route path="/trailer" element={<Trailer />} />
-          <Route path="/characters" element={<Character />} />
-        </Routes>
-        <Footer />
-      </div>
+    <Router basename="/spyxfamily-react">
+      {isLoading ? (
+        <Loading />
+      ) : (
+        <>
+          <Navbar />
+          <div className="container">
+            <Routes>
+              <Route path="/" element={<Home />} />
+              <Route path="/about" element={<About />} />
+              <Route path="/trailer" element={<Trailer />} />
+              <Route path="/characters" element={<Character />} />
+            </Routes>
+            <Footer />
+          </div>
+        </>
+      )}
     </Router>
   );
 }
