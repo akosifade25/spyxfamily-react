@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/spyxfamily-react/static/css/main.490088d3.css",
+    "main.js": "/spyxfamily-react/static/js/main.dd3a4f87.js",
+    "static/media/home-tm-img.png": "/spyxfamily-react/static/media/home-tm-img.08dba87520d14306aec9.png",
+    "static/media/home-img.png": "/spyxfamily-react/static/media/home-img.b51381fb6d6baeda318c.png",
+    "static/media/anya-forger.png": "/spyxfamily-react/static/media/anya-forger.6e1c6af6065819ef5b0c.png",
+    "static/media/bond-forger.png": "/spyxfamily-react/static/media/bond-forger.9a78a794bbc14abd1932.png",
+    "static/media/yor-forger.png": "/spyxfamily-react/static/media/yor-forger.82ec6cabec9e81fd497d.png",
+    "static/media/loid-forger.png": "/spyxfamily-react/static/media/loid-forger.72b8b53ff64292fe1fff.png",
+    "static/media/posterimg.png": "/spyxfamily-react/static/media/posterimg.e030dd50da8e090d7b46.png",
+    "static/media/about-bg.png": "/spyxfamily-react/static/media/about-bg.582b065d591bf2d3ea29.png",
+    "static/media/spyxfamilylogo.png": "/spyxfamily-react/static/media/spyxfamilylogo.b7a4ab0bb52c251efbd8.png",
+    "static/media/loading.gif": "/spyxfamily-react/static/media/loading.ac53a9304046408a0545.gif",
+    "static/media/blacklogo.png": "/spyxfamily-react/static/media/blacklogo.0f565f9b18ec09b6321e.png",
+    "static/media/netflix.png": "/spyxfamily-react/static/media/netflix.77ba64d8813d5a26e7e7.png",
+    "static/media/crunchyroll.png": "/spyxfamily-react/static/media/crunchyroll.2e3a7ae1fa19d9680edd.png",
+    "index.html": "/spyxfamily-react/index.html",
+    "main.490088d3.css.map": "/spyxfamily-react/static/css/main.490088d3.css.map",
+    "main.dd3a4f87.js.map": "/spyxfamily-react/static/js/main.dd3a4f87.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.490088d3.css",
+    "static/js/main.dd3a4f87.js"
+  ]
+}
